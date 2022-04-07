@@ -2,7 +2,8 @@
 
 # Fragula
 A simple and customizable Android fragments navigator with support "swipe to dismiss" gestures and saving a stack of fragments when changing the screen orientation
-!!! Fragula is no longer supported. Try [Branch](https://github.com/massivemadness/Fragula) by @massivemadness
+
+!!! Fragula is no longer supported. Try [Fragula 2](https://github.com/massivemadness/Fragula) by @massivemadness
 
 ### Requirements
 * A project configured with the AndroidX
