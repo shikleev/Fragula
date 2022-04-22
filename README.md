@@ -5,6 +5,8 @@ A simple and customizable Android fragments navigator with support "swipe to dis
 
 !!! Fragula is no longer supported. Try [Fragula 2](https://github.com/massivemadness/Fragula) by @massivemadness
 
+![](20200301_131107.gif)
+
 ### Requirements
 * A project configured with the AndroidX
 * SDK 21 and and higher
